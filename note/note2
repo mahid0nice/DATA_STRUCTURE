@@ -1,0 +1,54 @@
+First slide:
+
+        ~Data means raw facts that can be processed to get results.
+        ~Some elementary items constitute a unit and that unit may be considered as a structure.
+        ~A structure may be treates as a frame where we organize some elementary items in different ways.
+
+        Data Structure : is a structure where we organize elemntary data items in  
+                         different ways and there exits structural relationship among the items so that it can be used efficiently.
+
+                        in other words, a data structure is means of structural relationships of elementary data
+                        items for storing and retrieving data in computers memory.
+
+        ~ususally elementary data items are the elements of a data structure.
+        ~elementary data types:
+                            #character
+                            #integer
+                            #floating point numbers etc.
+        ~A data structure may be an element of another data structure.
+                example: Array,Structure,Stack etc.
+        ~We study data structures in two ways: 
+                            #Basic : Having a concrete implementaition            
+                                Example:       Variable,pointer,array etac.
+                            #Abstract data types: ADTs are entities that are definition of data and operation but do not have any concrete implementation.
+                                Example: List,stack,Queue etc.
+
+        ~Basic: insertion( addition of a new elemennt in the data structure)
+                deletion( removal of the element from the data structure)
+                traversal( accessing data elements in the deata structure)
+        ~Additional:  # searching(locating a certain element in the data structure)
+                      # sorting(Arranging elements in a data structure in a specified order)
+                      # merging(combining elements of two similar data structure)
+        
+        ~Algorithm is a set of instructions that can be followed to perform a task.
+         In other wrods, sequence of steps that can be followed to solve a problem.
+
+        ~Parts of Algorithm : three section:
+            #first  section is input section, where we show which data elements 
+                    are to be given or fed to the algirthm as an input.
+            #second section is the most important one,which is operational or      
+                    processing section. Here we have to do all necessary operations, such as computation, taking decision, calling other procedures etc.
+            #third section is output, where we display or get the result with the 
+                    help of the previous two sections.
+
+
+Second Slide:
+        ~An array can hold series of elements of the same type placed in  
+            contiguous memory locations.
+        ~In other words, arrays are a convenient way of grouping a lot of values
+            of same type under a single varible name.
+        ~The access for the two-dimensional array in that case is just as the  
+            indexing of the array:
+                [(total column)*(row index)+(column index)]
+
+

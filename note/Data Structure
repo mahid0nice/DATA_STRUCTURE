@@ -1,0 +1,20 @@
+# Data Structure: Data structure are used to store and organize data.
+
+# Common data structures are :
+        1.vector 
+        2.List
+        3.Stack
+        4.Queue
+        5.Deque
+        6.set 
+        7.Map
+
+
+* To Use we have to include the appropriate file to use them :
+
+#include <vector>
+#include <list>
+#include <set>
+#include <map>
+#include <stack>
+#include <queue>
